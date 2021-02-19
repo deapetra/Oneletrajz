@@ -1,0 +1,171 @@
+@font-face {
+    font-family: 'Gravity Light';
+    src: url('Gravity-Light.ttf');
+  }
+
+@font-face {
+    font-family: 'Chapaza Italic';
+    src: url('Chapaza Italic.ttf');
+  }
+
+  @font-face {
+    font-family: 'Sani Trixie Regular';
+    src: url('Sani Trixie Regular.ttf');
+  }
+
+body{
+    background-image: url(hatter.jpg);
+    
+}
+
+.hatter{
+    background-color: rgba(253, 252, 242, 0.9);
+    margin-left: 100px;
+    margin-right: 1000px;
+    height: 750px;
+    border: none;
+    
+}
+
+.insta{
+    width: 50px;
+}
+
+.face{
+    width: 50px;
+}
+
+.gmail{
+    width: 60px;
+}
+
+.szoveg{
+    float: right;
+    margin-left: 80px;
+    margin-right: 10px;
+    width: 800px;
+    height: 750px;
+    background-color:  rgba(253, 249, 229, 0.8);
+    border: none;
+}
+
+.cim{
+    font-family: 'Gravity Light';
+}
+
+.en{
+    width: 200px;
+    float: left;
+}
+
+.menu{
+    float: right;
+    list-style-type: none;
+}
+
+.cel{
+    background-color: rgba(204, 204, 202, 0.9);
+    color: black;
+    float: right;
+    font-family: 'Sani Trixie Regular';
+    margin-top: 100px;
+    margin-right: -95px;
+}
+
+.terv{
+    font-style: italic;
+}
+
+
+
+.suli{
+    background-color: rgba(204, 204, 202, 0.9);
+    color: black;
+    float: right;
+    margin-top:  ;
+    margin-right: ;
+    font-family: 'Sani Trixie Regular';
+}
+
+.sulik{
+    font-style: italic;
+}
+
+.hobbi{
+    background-color: rgba(204, 204, 202, 0.9);
+    color: black;
+    float: right;
+    margin-top: -7px ;
+    margin-right: ;
+    font-family: 'Sani Trixie Regular';
+}
+
+.jovo{
+    background-color: rgba(204, 204, 202, 0.9);
+    color: black;
+    float: right;
+    margin-top:  70px;
+    margin-right: -75px;
+    font-family: 'Sani Trixie Regular';
+}
+
+.hobbik{
+    font-style: italic;
+}
+
+.cica{
+    width: 100px;
+    float: right;
+    margin-right: 20px;
+}
+
+.foz{
+    width: 80px;
+    float: right;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.olvas{
+    width: 100px;
+    float: right;
+    margin-top: 70px;
+    margin-right: -290px;
+}
+
+.prog{
+    width: 90px;
+    float: right;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: -100px;
+}
+
+#celok{
+    font-family: 'Sani Trixie Regular';
+}
+
+
+
+#iskola{
+    font-family: 'Sani Trixie Regular';
+}
+
+#hobbi{
+    font-family: 'Sani Trixie Regular';
+}
+
+#jovo{
+    font-family: 'Sani Trixie Regular';
+}
+
+a:visited{
+    color: black;
+}
+a:hover{
+    color: rgba(130, 130, 127, 0.618);
+}
+a{
+    color: black;
+}
+
